@@ -9,3 +9,4 @@ nrows= int(f.readlines().split()[1])
 for i in range (3):
     f.readlines()
   ###what is this
+this is okay
