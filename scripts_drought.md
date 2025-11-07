@@ -10,3 +10,4 @@ for i in range (3):
     f.readlines()
   ###what is this
 this is okay
+average
