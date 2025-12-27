@@ -1,5 +1,5 @@
 
-#  Analysis of Future Trends in Synchronized Hot and Dry Events
+#  Analysis of Future Trends in Synchronized Heatwaves and Droughts on Modes of Transposrt infrastructure in Europe 
 
 ##  Project Overview
 This notebook documents a computational analysis of climate change impacts, specifically focusing on the synchronization of **heatwaves** and **droughts** (compound events). Using multi-model climate data, we aim to quantify how the frequency and concurrence of these extreme events evolve under future emission scenarios (e.g., RCP 6.0) compared to a present baseline.
