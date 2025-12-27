@@ -1,0 +1,15 @@
+name: climate_project_vis_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - xarray
+  - matplotlib
+  - numpy
+  - netcdf4
+  - jupyter
+  - pip
+  - scipy
+  - cftime
